@@ -10,7 +10,7 @@ let serial;
 
 // declarar variable con nombre de puerto de Arduino
 // actualizar con nombre del puerto en tu computador
-let nombrePuerto = "CAM3";
+let nombrePuerto = "CAM4";
 
 // declarar variable para datos recibidos
 let datosRecibidos = "esperando...";
